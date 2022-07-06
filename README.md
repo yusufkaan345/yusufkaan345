@@ -27,6 +27,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yusufkaan345&theme=synthwave"></img>
 
 <br></br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkaan345&layout=compact"></img>
 
 
