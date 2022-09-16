@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 ### Hi there ! I am Yusuf :blush:
-## Frontend Developer
+## Android Developer
 
 <br></br>
 
@@ -15,6 +15,7 @@
 
 ### Tech I use
 
+<img src="https://avatars.githubusercontent.com/u/1446536?s=200&v=4" width="42" ></img>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/javascript.svg" width="42" ></img>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/html5.svg" width="42" ></img>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/css3.svg" width="42" ></img>
