@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" frameBorder="0" class="giphy-embed" allowFullScreen>
 
-### Hi there ! I am Yusuf :blush:
+### Hi there ! I am Yusuf Kaan :blush:
 ## Android Developer
 
 <br></br>
